@@ -1,0 +1,6 @@
+<?php
+$MESS["CUREX_MODULE_OPTIONS_TAB_NAME"] = "Настройки";
+$MESS["CUREX_MODULE_OPTIONS_CURRENCY_PAIR"] = "Выбор пары валют";
+$MESS["CUREX_MODULE_OPTIONS_API_KEY"] = "Ключ API";
+$MESS["CUREX_MODULE_OPTIONS_INPUT_APPLY"] = "Применить";
+?>
