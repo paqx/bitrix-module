@@ -5,7 +5,7 @@
 Для добавления на сайт:
 
 > <?
-> $APPLICATION->IncludeComponent(
+> $APPLICATION-\>IncludeComponent(
 > "curex:currency.exchange",
 > ".default",
 > Array(),
