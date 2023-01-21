@@ -4,11 +4,11 @@
 
 Для добавления на сайт:
 
-> <?
-> $APPLICATION\-\>IncludeComponent(
+> &lt;?
+> \$APPLICATION-&gt;IncludeComponent(
 > "curex:currency.exchange",
 > ".default",
 > Array(),
 > false
 > );
-> ?>
+> ?&gt;
